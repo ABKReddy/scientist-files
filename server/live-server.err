@@ -1,0 +1,36 @@
+[2026-10-01T16:30:47.521Z] ERROR Video upload failed ApiError: Unsupported video file. Please upload an MP4, WebM or MOV file.
+    at ApiError.badRequest (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\utils\ApiError.js:18:16)
+    at assertSupportedVideo (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\services\storage.service.js:61:35)
+    at uploadToLocalDisk (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\services\storage.service.js:121:57)
+    at async C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\controllers\clue.controller.js:86:18 {
+  statusCode: 400,
+  code: 'INVALID_VIDEO_FORMAT',
+  details: undefined
+}
+[2026-10-01T16:31:04.156Z] ERROR Video upload failed ApiError: Unsupported video file. Please upload an MP4, WebM or MOV file.
+    at ApiError.badRequest (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\utils\ApiError.js:18:16)
+    at assertSupportedVideo (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\services\storage.service.js:61:35)
+    at uploadToLocalDisk (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\services\storage.service.js:121:57)
+    at async C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\controllers\clue.controller.js:86:18 {
+  statusCode: 400,
+  code: 'INVALID_VIDEO_FORMAT',
+  details: undefined
+}
+[2026-10-01T16:31:40.912Z] ERROR Video upload failed ApiError: Unsupported video file. Please upload an MP4, WebM or MOV file.
+    at ApiError.badRequest (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\utils\ApiError.js:18:16)
+    at assertSupportedVideo (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\services\storage.service.js:61:35)
+    at uploadToLocalDisk (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\services\storage.service.js:121:57)
+    at async C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\controllers\clue.controller.js:86:18 {
+  statusCode: 400,
+  code: 'INVALID_VIDEO_FORMAT',
+  details: undefined
+}
+[2026-10-01T16:32:19.323Z] ERROR Video upload failed ApiError: Unsupported video file. Please upload an MP4, WebM or MOV file.
+    at ApiError.badRequest (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\utils\ApiError.js:18:16)
+    at assertSupportedVideo (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\services\storage.service.js:61:35)
+    at uploadToLocalDisk (C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\services\storage.service.js:121:57)
+    at async C:\Users\monis\.cline\data\workspaces\chat\gurumeet\scientific-files\server\dist\controllers\clue.controller.js:86:18 {
+  statusCode: 400,
+  code: 'INVALID_VIDEO_FORMAT',
+  details: undefined
+}
